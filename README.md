@@ -86,9 +86,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Oget565/Oget565/output/snake.svg" alt="Snake animation" />
-
-###
